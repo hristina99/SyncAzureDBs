@@ -1,0 +1,9 @@
+{
+	"name": "SyncAzureDBs",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b958ce2-9c8d-482c-abda-467f265be7cb",
+		"tenantId": "93004b47-238e-4ef7-b9f7-8085640be5b8"
+	}
+}
